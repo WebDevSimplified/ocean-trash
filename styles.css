@@ -53,9 +53,9 @@
 
 .money {
   position: absolute;
-  bottom: 50%;
-  left: 30%;
-  font-size: 4rem;
+  bottom: 50vh;
+  left: 50vmin;
+  font-size: 6vmin;
   z-index: 100;
   margin: 0;
   opacity: .5;
